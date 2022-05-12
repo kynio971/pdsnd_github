@@ -16,3 +16,5 @@ gitignore
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 https://www.atlassian.com/git/tutorials
+https://git-scm.com/docs/git-branch
+https://www.w3schools.com/git/git_branch.asp?remote=github
