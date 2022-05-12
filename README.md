@@ -2,16 +2,17 @@
 
 ### Date created
 Include the date you created this project and README file.
-
+2022-05-12
 ### Project Title
 Replace the Project Title
-
+GIT UDACITY FINAL PROJECT
 ### Description
 Describe what your project is about and what it does
-
+project 3
 ### Files used
 Include the files used
-
+Bikeshare.py
+gitignore
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.atlassian.com/git/tutorials
