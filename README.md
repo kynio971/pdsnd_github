@@ -18,3 +18,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 https://www.atlassian.com/git/tutorials
 https://git-scm.com/docs/git-branch
 https://www.w3schools.com/git/git_branch.asp?remote=github
+
+
+https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch
