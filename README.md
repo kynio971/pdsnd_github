@@ -29,3 +29,7 @@ Refactoring:
 https://dev.to/yzwdroid/refactoring-code-git-rebase-hkk
 
 https://carpentries-incubator.github.io/swc-ext-python/33-refactoring/
+
+More website for refactoring/
+https://github.com/angular/angular/commit/dff6ee32725197bdb81f3f63c5bd9805f2ed22bb#diff-6a3371457528722a734f3c51d9238c13
+https://www.w3docs.com/snippets/git/how-to-change-older-or-multiple-commits.html
