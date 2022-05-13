@@ -9,6 +9,8 @@ GIT UDACITY FINAL PROJECT
 ### Description
 Describe what your project is about and what it does
 project 3
+Resubmitting criteria 1
+Resubmitting Criteria 2
 ### Files used
 Include the files used
 Bikeshare.py
