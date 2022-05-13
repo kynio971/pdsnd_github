@@ -21,3 +21,7 @@ https://www.w3schools.com/git/git_branch.asp?remote=github
 
 
 https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch
+
+
+Refactoring:
+https://dev.to/yzwdroid/refactoring-code-git-rebase-hkk
