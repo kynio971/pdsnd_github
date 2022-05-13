@@ -25,3 +25,5 @@ https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branc
 
 Refactoring:
 https://dev.to/yzwdroid/refactoring-code-git-rebase-hkk
+
+https://carpentries-incubator.github.io/swc-ext-python/33-refactoring/
